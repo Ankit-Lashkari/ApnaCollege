@@ -1,4 +1,4 @@
 # ApnaCollege
 This is My Final Git Learning Repository. 
 
-Auther : Ankit lashkari
+Auther : Ankit Lashkari
